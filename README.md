@@ -3,7 +3,7 @@
 <!-- 
 **stefantanasa/stefantanasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on improving my coding skills 😃
 - 🌱 I’m currently learning Javascript, ReactJS, HTML, CSS

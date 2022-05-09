@@ -19,6 +19,6 @@
 <li>🤔 I’m looking for help with ...</li>
 <li>💬 Ask me anything, I'm an open book 📖</li>
 <li>📫 How to reach me: ...</li>
- <li> 😄 Pronouns: ...</li>
-<li> ⚡ Fun fact: ...</li>
+ <li> 😄 Pronouns: Mrs Bad Jokes</li>
+  <li> ⚡ Proof: Why I love fishing! Because I love <b>React Hooks!</b> <h1>🥁</h1></li>
 </ul>
